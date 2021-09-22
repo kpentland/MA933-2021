@@ -1,6 +1,6 @@
 # Notebooks for MA933 Stochastic Modelling and Random Processes (2021-22)
 
-The module webpage can be found [here](https://warwick.ac.uk/fac/sci/mathsys/courses/msc/ma933/)
+The module webpage can be found [here](https://warwick.ac.uk/fac/sci/mathsys/courses/msc/ma933/).
 
 Lecturer: [Susana Gomes](https://warwick.ac.uk/fac/sci/maths/people/staff/gomes/) 
 
