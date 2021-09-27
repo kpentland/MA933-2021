@@ -15,13 +15,9 @@ Notebooks will be uploaded before each support class. If something is not workin
 ## Contents of each notebook
 
 `Support Class 1.ipynb`
-* basic linear algebra in python
-* simple random walk animation 
-* function SRW, a simple random walk with arguements p (probability steping up), tmax (when to terminate the walk) and N (number of replications)
-* empirical distribution calculated at a fixed time (hist plot over possible states at time n)
-* simulation with periodic boundary conditions (modulus L (L =10))
-* simulation with closed boundary conditions (reflects at 10 and 0)
-
+* Basic commands
+* Linear algebra basics
+* Simple random walk exercises 
 
 ## Other helpful informtion
 This will be updated as the module progresses. 
