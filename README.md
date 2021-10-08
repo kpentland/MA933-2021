@@ -7,8 +7,8 @@ Lecturer: [Susana Gomes](https://warwick.ac.uk/fac/sci/maths/people/staff/gomes/
 Teaching Assistant: [Kamran Pentland](https://warwick.ac.uk/fac/sci/mathsys/people/students/2019intake/pentland/)
 
 ## Getting started
-* Simply download (or clone) the repository to your laptop. 
-* Create a separate folder on your laptop to store your own notebooks. 
+* Simply download (or clone) the repository to a new folder in on your laptop. 
+* Fire up any of the notebooks using Jupyter notebook. 
 
 Notebooks will be uploaded before each support class. If something is not working, get in contact with me. 
 
