@@ -19,6 +19,11 @@ Notebooks will be uploaded before each support class. If something is not workin
 * Linear algebra basics
 * Simple random walk exercises 
 
+`Support Class 2.ipynb`
+* Sheet 1 simulations
+* Q3(c): Three state Markov chain
+* Q4(c): Wright-Fisher model
+
 ## Other helpful informtion
 This will be updated as the module progresses. 
 
