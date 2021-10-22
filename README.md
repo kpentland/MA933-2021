@@ -24,6 +24,11 @@ Notebooks will be uploaded before each support class. If something is not workin
 * Q3(c): Three state Markov chain
 * Q4(c): Wright-Fisher model
 
+`Support Class 3.ipynb`
+* Sheet 2 simulations
+* Q1(c/d): DTMC simulation (e'vals/e'vectors/stationary distributions)
+* Q2(d): geometric random walk
+
 ## Other helpful informtion
 This will be updated as the module progresses. 
 
