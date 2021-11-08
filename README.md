@@ -29,6 +29,11 @@ Notebooks will be uploaded before each support class. If something is not workin
 * Q1(c/d): DTMC simulation (e'vals/e'vectors/stationary distributions)
 * Q2(d): geometric random walk
 
+`Support Class 4.ipynb`
+* Sheet 3 simulations
+* Q2: CTMC simulation
+* Q3: playing with multivariate Gaussians
+
 ## Other helpful informtion
 This will be updated as the module progresses. 
 
