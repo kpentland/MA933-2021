@@ -33,6 +33,8 @@ Notebooks will be uploaded before each support class. If something is not workin
 * Sheet 3 simulations
 * Q2: CTMC simulation
 * Q3: playing with multivariate Gaussians
+* Q4: Geometric Brownian Motion SDE
+* Q5: Fractional Brownian motion/Brownian Bridges/Gaussian Processes
 
 ## Other helpful informtion
 This will be updated as the module progresses. 
