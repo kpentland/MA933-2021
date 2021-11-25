@@ -36,6 +36,10 @@ Notebooks will be uploaded before each support class. If something is not workin
 * Q4: Geometric Brownian Motion SDE
 * Q5: Fractional Brownian motion/Brownian Bridges/Gaussian Processes
 
+`Support Class 5.ipynb`
+* Sheet 4 simulations
+* Q2: Contact process simulation (with Gillespie algorithm)
+
 ## Other helpful informtion
 This will be updated as the module progresses. 
 
