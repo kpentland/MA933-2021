@@ -40,6 +40,10 @@ Notebooks will be uploaded before each support class. If something is not workin
 * Sheet 4 simulations
 * Q2: Contact process simulation (with Gillespie algorithm)
 
+`Support Class 6.ipynb`
+* Sheet 5 simulations
+* Q2: Using the 'networkx' package to simulate random networks
+
 ## Other helpful informtion
 This will be updated as the module progresses. 
 
